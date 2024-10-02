@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jsp-api">
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/web/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/apache-tomcat-9.0.93/lib/servlet-api.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/apache-tomcat-9.0.93/lib/jsp-api.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/web/WEB-INF/lib/lombok.jar" />
+  </library>
+  <library name="KotlinJavaRuntime" />
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.jms.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.resource.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.annotation.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.ejb.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.transaction.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.servlet.jar" />
+    <archive path="C:/Users/ICT02_06/Desktop/SeongsuProject1/lib/javax.persistence.jar" />
+  </library>
+</eclipse-userlibraries>
+
